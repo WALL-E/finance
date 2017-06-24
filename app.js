@@ -22,7 +22,7 @@ Highcharts.chart('container', {
         title: {
             text: 'RMB (yuan)'
         },
-        min: 0
+        min: 25000
     },
     tooltip: {
         headerFormat: '<b>{series.name}</b><br>',
